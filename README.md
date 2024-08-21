@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Jithara Siriwardana</h1>
-<h3 align="center">A passionate Data Engineer from SriLanka</h3>
+<h3 align="center">A passionate Data Scientist from SriLanka</h3>
 
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg">
 
