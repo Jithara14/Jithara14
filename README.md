@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/jitharasiriwardana" target="blank"><img src="https://img.shields.io/twitter/follow/jitharasiriwardana?logo=twitter&style=for-the-badge" alt="jitharasiriwardana" /></a> </p>
 
-- 🔭 I’m currently working on **mobile app development project**
+- 🔭 I’m currently working on **backend development projects(python)**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Machine learning**
 
-- 💬 Ask me about **Java , python**
+- 💬 Ask me about **Java, python**
 
 - 📫 How to reach me **it22336590@my.sliit.lk**
 
