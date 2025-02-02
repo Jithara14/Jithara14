@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Java, python**
 
-- 📫 How to reach me **it22336590@my.sliit.lk**
+- 📫 How to reach me **jithara456@sliit.lk**
 
 - ⚡ Fun fact **call me MJ**
 
