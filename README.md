@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Java, python**
 
-- 📫 How to reach me **jithara456@gamil.com**
+- 📫 How to reach me **jithara456@gmail.com**
 
 - ⚡ Fun fact **call me MJ**
 
