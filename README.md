@@ -23,7 +23,7 @@ AI Engineer | Data Scientist | Full Stack Developer from Sri Lanka 🇱🇰
 
 <p align="center">
 <a href="https://linkedin.com/in/jitharasiriwardana">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://www.linkedin.com/in/jithara-siriwardana-029897246/" />
 </a>
 
 <a href="https://instagram.com/jitharasiriwardana">
